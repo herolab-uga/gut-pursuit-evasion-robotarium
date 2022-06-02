@@ -9,7 +9,7 @@ Check the instruction: https://github.com/robotarium/robotarium_python_simulator
 ```
 ### Download the Code
 ```
-$ git clone https://github.com/RickYang2016/Gut-Pursuit-Domain-Robotarium-ISR2022.git
+$ git clone https://github.com/herolab-uga/gut-pursuit-evasion-robotarium.git
 ```
 ### Run
 1. CB with 1/3/5 Pursuer:
