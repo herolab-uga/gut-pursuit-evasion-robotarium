@@ -1,5 +1,5 @@
 # gut-pursuit-evasion-robotarium
-Software codes for running the Game-theoretic Utility Tree (GUT) algorithm for the multi-robot Pursuit-Evasion problem in the Robotarium's simulator-hardware multi-robot testbed.
+Software codes for running the Game-theoretic Utility Tree (GUT) algorithm for the multi-robot Pursuit-Evasion problem in the [Robotarium](https://www.robotarium.gatech.edu/) simulator-hardware multi-robot testbed.
 
 ## Experiments Setup
 This implementation requires Robotarium Python Simulator.
