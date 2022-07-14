@@ -48,7 +48,7 @@ pyhton gut_pursuit_game_1/3/5vs1.py
     
 > 3 Pursuers chasing 1 Evader 
     <div align = center>
-    <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/cb.gif" height="133" width="237" title="Constant Bearing (CB)">   <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/pp.gif" height="133" width="237" alt="Pure Pursuit (PP)">      <img src="https://github.com/RickYang2016/PhD-Dissertation-SASS/blob/main/figures/gut_pursuit.gif" height="133" width="237" alt="GUT_3v1"/>
+    <img src="https://github.com/herolab-uga/gut-pursuit-evasion-robotarium/blob/main/figures/cb.gif" height="133" width="237" title="Constant Bearing (CB)">   <img src="https://github.com/herolab-uga/gut-pursuit-evasion-robotarium/blob/main/figures/pp.gif" height="133" width="237" alt="Pure Pursuit (PP)">      <img src="https://github.com/herolab-uga/gut-pursuit-evasion-robotarium/blob/main/figures/gut_pursuit.gif" height="133" width="237" alt="GUT_3v1"/>
     </div>
     
 > 5 Pursuers chasing 1 Evader 
